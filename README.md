@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnoin)](https://solved.ac/pnoin)
 
-pip install -r requirements.txt
-uvicorn main:app --reload
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=pnoin&theme=dark)
+
