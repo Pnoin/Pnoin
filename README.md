@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnoin)](https://solved.ac/pnoin)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=pnoin&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pnoin&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle=pnoin&theme=dark"/>
