@@ -1,6 +1,6 @@
 ## BOJ & Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnoin)](https://solved.ac/pnoin)
-### Good Bye, BOJ! 👋
+### 👋 Good Bye, BOJ! 👋
 <img width="2000" height="1200" alt="Image" src="https://github.com/user-attachments/assets/667437a8-72cd-4b12-94af-77d43ef20551" />
 
 
