@@ -1,7 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f575e4,100:80f7f9&height=120&text=Welcome👋%20I'm%20Kyumin&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fc86fe,100:7abfff&height=120&text=Welcome👋%20I'm%20Kyumin&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     
+
 ## BOJ & Solved.ac
 ### Good Bye, BOJ! 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnoin)](https://solved.ac/pnoin)
