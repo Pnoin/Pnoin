@@ -1,6 +1,7 @@
 ## BOJ & Solved.ac
 ### Good Bye, BOJ! 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnoin)](https://solved.ac/pnoin)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pnoin&theme=warm)
 
 ## 🔥 Who Am I
 ### 🏆 Honors
