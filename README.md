@@ -6,6 +6,16 @@
 ### Good Bye, BOJ! 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnoin)](https://solved.ac/pnoin)
 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://www.instagram.com/06_king._.km_/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/06_king._.km_/"> </a>
+         <a href=https://pnoin.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://pnoin.tistory.com/"> </a>
+         <a href=mailto:kangmatthew0421@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kangmatthew0421@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    
+
 ## 🔥 Who Am I
 ### 🏆 Honors
 - 🥇 World Mathematics Team Championship 2020 [1st place / Team]
