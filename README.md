@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnoin)](https://solved.ac/pnoin)
 
 ## 📂 Honors
-
 - 🥇 World Mathematics Team Championship 2020 [1st place / Team]
 - 🥇 Canadian Computing Competition 2023 Junior Division [Achieved Full Mark, Top 1]
 - 🥇 GEC Coding Challenge [Top 1 Winner]
@@ -36,6 +35,7 @@ Here are some ideas to get you started:
 - 🥉 KSEF (International) 2024 [Bronze Award]
 - 🥉 American Computer Science League 2024 [Made to the finalist]
 
-- 🏆 Conrad Challenge 2022~2023 & 2023~2024 [Conrad Innovator Award]
+- 🏆 Conrad Challenge 2022~2023 [Conrad Innovator Award]
+- 🏆 Conrad Challenge 2023~2024 [Conrad Innovator Award]
 - 🏆 Perse Coding Team Challenge 2022~2023 [Distinction Award, Both in Round 1 & Round 2]
 - 🏆 Canadian Computing Competition 2024 Senior Division [Distinction Award]
