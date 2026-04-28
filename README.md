@@ -39,17 +39,17 @@ Here are some ideas to get you started:
 - 🏆 Canadian Computing Competition 2024 Senior Division [Distinction Award]
 
 ### ⛏️ Activities
-#### Activities in NLCS Jeju
-- Chair of Computer Science Society 2023~2024 in NLCS Jeju
-- Captain of Hello World (CCA) 2023~2024 in NLCS Jeju
-- Co-Founder of LEMS Society 2022~2024 in NLCS Jeju
-- Co-Founder of Eupalinos Project 2022~2024 in NLCS Jeju
-- Worked as a mentor for Juniors in Programming and Competitions ACSL American Computer Science League (CCA) 2024 in NLCS Jeju
-- Member of Math Society 2022~2024 in NLCS Jeju
-- Academic Captain of Jeoji House 2022~2023 in NLCS Jeju
+#### 🏫 Activities in NLCS Jeju
+- 👑 Chair of Computer Science Society 2023~2024 in NLCS Jeju
+- 👑 Captain of Hello World (CCA) 2023~2024 in NLCS Jeju
+- 💡 Co-Founder of LEMS Society 2022~2024 in NLCS Jeju
+- 💡 Co-Founder of Eupalinos Project 2022~2024 in NLCS Jeju
+- 📚 Worked as a mentor for Juniors in Programming and Competitions ACSL American Computer Science League (CCA) 2024 in NLCS Jeju
+- 📚 Academic Captain of Jeoji House 2022~2023 in NLCS Jeju
+- ✏️ Member of Math Society 2022~2024 in NLCS Jeju
 
-#### Extracurricular Activities
-- Founder & Developer of LiServe (Library Booking App)
-- Founder of Nocodemy
-- Organiser & Host of GEC Cup 2024 (https://www.acmicpc.net/contest/view/1261)
-- Project XR (Student internship hosted by Carnegie Mellon University; Took courses of machine learning and AI; Worked as a group to develop a low self-esteem management app, creating AI for emotion recognition through voice and facial analysis; had a final presentation in front of professors and received a certificate)
+#### 🚀 Extracurricular Activities
+- 💡 Founder & Developer of LiServe (Library Booking App)
+- 💡 Founder of Nocodemy
+- 💻 Organiser & Host of GEC Cup 2024 (https://www.acmicpc.net/contest/view/1261)
+- 📚 Project XR (Student internship hosted by Carnegie Mellon University; Took courses of machine learning and AI; Worked as a group to develop a low self-esteem management app, creating AI for emotion recognition through voice and facial analysis; had a final presentation in front of professors and received a certificate)
