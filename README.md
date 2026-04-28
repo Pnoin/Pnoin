@@ -1,11 +1,8 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fc86fe,100:7abfff&height=120&text=Welcome👋%20I'm%20Kyumin&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
-    
-
 ## BOJ & Solved.ac
-### Good Bye, BOJ! 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnoin)](https://solved.ac/pnoin)
+### Good Bye, BOJ! 👋
+<img width="2000" height="1200" alt="Image" src="https://github.com/user-attachments/assets/667437a8-72cd-4b12-94af-77d43ef20551" />
+
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
